@@ -1,0 +1,20 @@
+[
+  {
+    "nama_tempat" : "AREA SEAT COMP,DOUBLE",
+    "panjang_tempat" : 15.7,
+    "lebar_tempat" : 3.5,
+    "subcount" : [
+      "ASKI",
+      "MI"
+    ]
+  },
+  {
+    "nama_tempat" : "AREA CASTING WHELL",
+    "panjang_tempat" : 15.7,
+    "lebar_tempat" : 2,
+    "subcount" : [
+      "-",
+      "-"
+    ]
+  }
+]
